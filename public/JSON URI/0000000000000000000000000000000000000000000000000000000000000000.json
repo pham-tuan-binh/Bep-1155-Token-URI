@@ -1,0 +1,5 @@
+{
+    "name": "Binh Token",
+    "description": "A token to mock other token and to buy NFTs on Binh NFT network",
+	"image": "https:\/\/s3.amazonaws.com\/your-bucket\/images\/{id}.png",
+} 
